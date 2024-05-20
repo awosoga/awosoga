@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi, I'm David! Graduate Student and Data Scientist
 
+Content will be periodically added to this page as I procrastinate writing my thesis.
+
+Connect with me!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/davidawosoga?color=blue&label=%40davidawosoga&logo=twitter&style=for-the-badge)](https://twitter.com/davidawosoga)
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-david--awosoga-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2)](https://www.linkedin.com/in/david-awosoga/)
+[![GitHub Follow](https://img.shields.io/github/followers/awosoga?color=eee&logo=Github&style=for-the-badge)](https://github.com/awosoga)
 <!--
 **awosoga/awosoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
