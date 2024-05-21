@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David! 
 
-Content will be periodically added to this page as I procrastinate writing my thesis.
+I'm a graduate student at the University of Waterloo and Performance Data Scientist with Canadian Sport Institute Ontario. Content will be periodically added to this page as I procrastinate writing my thesis.
 
 ### Programming Languages
 
