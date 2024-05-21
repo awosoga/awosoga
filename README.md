@@ -1,6 +1,18 @@
 # 👋 Hi, I'm David! 
 
-I'm a graduate student at the University of Waterloo and Performance Data Scientist with Canadian Sport Institute Ontario. Content will be periodically added to this page as I procrastinate writing my thesis.
+Content will be periodically added to this page as I procrastinate writing my thesis.
+
+### Current
+
+I'm a graduate student at the University of Waterloo and Performance Data Scientist with Canadian Sport Institute Ontario. 
+
+### Previous
+
+### Projects
+
+### Papers
+
+### Presentations
 
 ### Programming Languages
 
