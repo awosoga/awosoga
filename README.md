@@ -4,12 +4,16 @@ Content will be periodically added to this page as I procrastinate writing my th
 
 ### Current
 
-<a href='mailto:david.awosoga@uwaterloo.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/waterloo-logo.png' width="180.6" height="120" /></a>
-<a href = 'https://csiontario.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/csio-logo.png' width="130.6" height="120" /></a>
 
-I'm a graduate student at the University of Waterloo and Performance Data Scientist with Canadian Sport Institute Ontario. 
+<a href='mailto:david.awosoga@uwaterloo.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/waterloo-logo.png' width="170.6" height="120" /></a>
+<a href='https://csiontario.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/csio-logo.png' width="190.6" height="120" /></a>
+<a href='https://athletics.uwaterloo.ca/sports/womens-volleyball/roster/staff/david-awosoga/205'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/warriors-logo.png' width="120.6" height="120" /></a>
 
 ### Previous
+
+
+<a href='https://usportshoops.ca/history/person.php?Person=awosoga-david'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/pronghorns-logo.png' width="80.6" height="120" /></a>
+<a href='https://canadianbasketballanalytics.carrd.co'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/stingers-logo.png' width="110.6" height="120" /></a>
 
 ### Projects
 
