@@ -4,6 +4,9 @@ Content will be periodically added to this page as I procrastinate writing my th
 
 ### Current
 
+<a href='mailto:david.awosoga@uwaterloo.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/waterloo-logo.png' width="180.6" height="120" /></a>
+<a href = 'https://csiontario.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/csio-logo.jpg' width="130.6" height="120" /></a>
+
 I'm a graduate student at the University of Waterloo and Performance Data Scientist with Canadian Sport Institute Ontario. 
 
 ### Previous
