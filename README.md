@@ -6,7 +6,7 @@ I'm a graduate student interested in sports analytics, spatiotemporal analysis, 
 
 
 <a href='mailto:david.awosoga@uwaterloo.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/waterloo-logo.png' width="170.6" height="120" /></a>
-<a href='https://csiontario.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/csio-logo.png' width="190.6" height="120" /></a>
+<a href='https://csiontario.ca'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/csio-logo.png' width="230.6" height="120" /></a>
 <a href='https://athletics.uwaterloo.ca/sports/womens-volleyball/roster/staff/david-awosoga/205'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/warriors-logo.png' width="120.6" height="120" /></a>
 
 ### Previous
