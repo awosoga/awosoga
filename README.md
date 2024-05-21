@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David! 
 
-Content will be periodically added to this page as I procrastinate writing my thesis.
+I'm a graduate student interested in sports analytics, spatiotemporal analysis, and Bayesian modelling. Content will be periodically added to this page as I procrastinate writing my thesis.
 
 ### Current
 
