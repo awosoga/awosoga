@@ -17,9 +17,7 @@ Content will be periodically added to this page as I procrastinate writing my th
 
 ### Projects
 
-### Papers
-
-### Presentations
+### Packages
 
 ### Programming Languages
 
