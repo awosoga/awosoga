@@ -34,9 +34,12 @@ I'm a graduate student interested in sports analytics, spatiotemporal analysis, 
 
 ### Connect with me!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/davidawosoga?color=blue&label=%40davidawosoga&logo=twitter&style=for-the-badge)](https://twitter.com/davidawosoga)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-david--awosoga-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2)](https://www.linkedin.com/in/david-awosoga/)
-[![GitHub Follow](https://img.shields.io/github/followers/awosoga?color=eee&logo=Github&style=for-the-badge)](https://github.com/awosoga)
+<a href="https://twitter.com/davidawosoga" alt="twitter" target="_blank"> <img src="https://img.shields.io/twitter/follow/davidawosoga?color=blue&label=%40davidawosoga&logo=twitter&style=for-the-badge"/> </a>
+
+<a href="https://www.linkedin.com/in/david-awosoga/" alt="linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-david--awosoga-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B66C2"/> </a>
+
+<a href="https://github.com/awosoga" alt="github" target="_blank"> <img src="https://img.shields.io/github/followers/awosoga?color=eee&logo=Github&style=for-the-badge"/> </a>
+
 <!--
 **awosoga/awosoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
