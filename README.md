@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David! 
 
-I'm a graduate student interested in sports analytics, spatiotemporal analysis, and Bayesian modelling. Content will be periodically added to this page as I procrastinate writing my thesis.
+I'm a graduate student interested in sports analytics, spatiotemporal data analysis, and Bayesian reinforcement learning. Content will be periodically added to this page as I procrastinate working on my research.
 
 ### Current
 
@@ -17,13 +17,20 @@ I'm a graduate student interested in sports analytics, spatiotemporal analysis, 
 
 ### Projects
 
+- *Peaks and primes: Do athletes get one shot at glory?* ([Paper](https://academic.oup.com/jrssig/article/21/3/6/7686552), [Code](https://github.com/awosoga/peaks-and-primes)): Analyzing the career progression of Olympic track and field athletes using survival analysis and censored regression.
+<!-- - Volleyball RAPM -->
+
+<!--
 ### Packages
+- usportsR
+- ceblR -->
 
 ### Programming Languages
 
 <a href="https://www.r-project.org/" target="_blank" alt="R"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/></a>
 <a href="https://www.icocpp.org" alt="c++" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/></a>
 <a href="https://www.python.org" alt="python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://mc-stan.org" alt="stan" target ="_blank"> <img src="https://mc-stan.org/img/logo_tm.png" alt="stan" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/></a>
 
