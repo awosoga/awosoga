@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David! 
 
-I'm a graduate student interested in sports analytics, spatiotemporal data analysis, and Bayesian reinforcement learning. Content will be periodically added to this page as I procrastinate working on my research.
+I'm a PhD student interested in sports analytics, spatiotemporal data analysis, and Bayesian reinforcement learning. Content will be periodically added to this page as I procrastinate working on my research.
 
 ### Current
 
@@ -17,7 +17,7 @@ I'm a graduate student interested in sports analytics, spatiotemporal data analy
 
 ### Projects
 
-- *Peaks and primes: Do athletes get one shot at glory?* ([Paper](https://academic.oup.com/jrssig/article/21/3/6/7686552), [Code](https://github.com/awosoga/peaks-and-primes)): Analyzing the career progression of Olympic track and field athletes using survival analysis and censored regression.
+- *Peaks and primes: Do athletes get one shot at glory?* (<a href="https://academic.oup.com/jrssig/article/21/3/6/7686552" target="_blank">Paper</a>, <a href="https://github.com/awosoga/peaks-and-primes" target="_blank">Code</a>): Analyzing the career progression of Olympic track and field athletes using survival analysis and censored regression.
 <!-- - Volleyball RAPM -->
 
 <!--
@@ -37,7 +37,8 @@ I'm a graduate student interested in sports analytics, spatiotemporal data analy
 ### Software
 
 <a href="https://git-scm.com" alt="git" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com" alt="github" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com" alt="github" target="_blank"> <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com/features/actions" alt="github actions" target="_blank"> <img src="https://svgmix.com/uploads/07f535-github-actions.svg" alt="github" width="40" height="40"/> </a>
 
 ### Connect with me!
 
