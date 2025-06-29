@@ -39,6 +39,7 @@ I'm a PhD student interested in sports analytics, spatiotemporal data analysis, 
 <a href="https://git-scm.com" alt="git" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com" alt="github" target="_blank"> <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://github.com/features/actions" alt="github actions" target="_blank"> <img src="https://svgmix.com/uploads/07f535-github-actions.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" alt="AWS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
 ### Connect with me!
 
