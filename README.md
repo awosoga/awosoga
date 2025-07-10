@@ -15,15 +15,23 @@ I'm a PhD student interested in sports analytics, spatiotemporal data analysis, 
 <a href='https://usportshoops.ca/history/person.php?Person=awosoga-david'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/pronghorns-logo.png' width="80.6" height="120" /></a>
 <a href='https://canadianbasketballanalytics.carrd.co'><img src='https://raw.githubusercontent.com/awosoga/awosoga/main/stingers-logo.png' width="110.6" height="120" /></a>
 
+### Package Development
+
+**Author**:
+
+- [usportsR](https://uwaggs.github.io/usportsR/) / [usportspy](https://github.com/uwaggs/usportspy/wiki) - `R` and `Python` packages to extract and analyze data from [U SPORTS](https://en.usports.ca/landing/index), the governing body of university sport in Canada.
+- [ceblR](https://github.com/awosoga/ceblR) / [ceblpy](https://ryanndu.github.io/ceblpy/) - `R` and `Python` packages to extract and analyze data from the [Canadian Elite Basketball League](https://www.cebl.ca), Canada’s largest professional sports league.
+<!-- rvolleydata / pyvolleydata -->
+
+**Contributor**:
+- [datavolley](https://github.com/openvolley/datavolley/) - An `R` package for reading volleyball scouting files collected from commercial software programs such as [DataVolley](https://www.dataproject.com/Products/EN/en/Volleyball/DataVolley4).
+
 ### Projects
 
 - *Peaks and primes: Do athletes get one shot at glory?* (<a href="https://academic.oup.com/jrssig/article/21/3/6/7686552" target="_blank">Paper</a>, <a href="https://github.com/awosoga/peaks-and-primes" target="_blank">Code</a>): Analyzing the career progression of Olympic track and field athletes using survival analysis and censored regression.
 <!-- - Volleyball RAPM -->
 
-<!--
-### Packages
-- usportsR
-- ceblR -->
+
 
 ### Programming Languages
 
