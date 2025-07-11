@@ -26,7 +26,7 @@ I'm a PhD student interested in sports analytics, spatiotemporal data analysis, 
 **Contributor**:
 - [datavolley](https://github.com/openvolley/datavolley/) - An `R` package for reading volleyball scouting files collected from commercial software programs such as [DataVolley](https://www.dataproject.com/Products/EN/en/Volleyball/DataVolley4).
 
-### Projects
+### Research
 
 - *Peaks and primes: Do athletes get one shot at glory?* (<a href="https://academic.oup.com/jrssig/article/21/3/6/7686552" target="_blank">Paper</a>, <a href="https://github.com/awosoga/peaks-and-primes" target="_blank">Code</a>): Analyzing the career progression of Olympic track and field athletes using survival analysis and censored regression.
 <!-- - Volleyball RAPM -->
