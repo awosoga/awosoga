@@ -19,7 +19,7 @@ I'm a PhD student interested in sports analytics, spatiotemporal data analysis, 
 
 **Author**:
 
-- [rvolleydata](https://uwaggs.github.io/rvolleydata/) / [pyvolleydata](https://pyvolleydata.readthedocs.io) - `R` and `Python` packages developed to extract boxscore, play-by-play, and other auxiliary data for teams and players from [Major League Volleyball](https://provolleyball.com), [League One Volleyball Pro](https://www.lovb.com/pro-league), and [Athletes Unlimited Pro Volleyball](https://auprosports.com/volleyball).
+- [rvolleydata](https://awosoga.github.io/rvolleydata/) / [pyvolleydata](https://pyvolleydata.readthedocs.io) - `R` and `Python` packages developed to extract boxscore, play-by-play, and other auxiliary data for teams and players from [Major League Volleyball](https://provolleyball.com), [League One Volleyball Pro](https://www.lovb.com/pro-league), and [Athletes Unlimited Pro Volleyball](https://auprosports.com/volleyball).
 - [usportsR](https://uwaggs.github.io/usportsR/) / [usportspy](https://github.com/uwaggs/usportspy/wiki) - `R` and `Python` packages to extract and analyze data from [U SPORTS](https://en.usports.ca/landing/index), the governing body of university sport in Canada.
 - [ceblR](https://awosoga.github.io/ceblR/) / [ceblpy](https://ceblpy.readthedocs.io) - `R` and `Python` packages to extract and analyze data from the [Canadian Elite Basketball League](https://www.cebl.ca), Canada’s largest professional sports league.
 <!-- rvolleydata / pyvolleydata -->
