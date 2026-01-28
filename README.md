@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David! 
 
-I'm a PhD student interested in sports analytics, spatiotemporal data analysis, and Bayesian reinforcement learning. Content will be periodically added to this page as I procrastinate working on my research.
+I'm a PhD candidate interested in sports analytics, spatiotemporal data analysis, and Bayesian reinforcement learning. Content will be periodically added to this page as I procrastinate working on my research.
 
 ### Current
 
